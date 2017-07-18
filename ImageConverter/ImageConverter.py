@@ -1,6 +1,5 @@
 import numpy as np
 import PIL.Image as image
-import pylab
 import scipy.misc
 import matplotlib
 
