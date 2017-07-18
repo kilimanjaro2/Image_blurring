@@ -21,4 +21,4 @@ for i in range(0,64,2):
             x = x + 1
             y = 0
 
-matplotlib.image.imsave('fin.png',small)
+scipy.misc.imsave('outfile.jpg', small)
